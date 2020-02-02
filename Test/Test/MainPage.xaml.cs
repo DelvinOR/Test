@@ -17,6 +17,7 @@ namespace Test
                 editor.Text = File.ReadAllText(_fileName);
             }
         }
+        // this is a comment
 
         void OnSaveButtonClicked(object sender, EventArgs e)
         {
